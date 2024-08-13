@@ -19,8 +19,7 @@ I'm a machine learning engineer in making and a DSA enthusiast. The projects in 
 <img  align="left" width="26px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" />
 
-
-
+\
 ### Reach out to me
 <a href = "https://www.instagram.com/hrishav_beejukchhen/">
 <img align="left" width="26px" style="padding-right:10px;" src ="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
